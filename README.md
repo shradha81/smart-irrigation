@@ -21,8 +21,11 @@ Data Sharing: Connect with other smart devices and systems on the farm, facilita
 Historical Data Analysis: Store and analyze historical irrigation data to identify trends and make informed decisions. Performance Reports: Generate reports on water usage, system efficiency, and other key metrics for evaluation and improvement. Drought Management:
 Drought Response Planning: Implement features that help manage water resources during drought conditions, such as prioritizing irrigation for essential crops. Alerts and Notifications: Receive alerts about potential drought conditions or water shortages, prompting proactive adjustments to irrigation plans. Integration with Smart Agriculture Systems:
 Farm Management Platforms: Integrate with broader farm management systems to streamline overall agricultural operations. Compatibility with Precision Agriculture: Support precision agriculture practices by aligning with data-driven and technology-based farming approaches. These features collectively contribute to more efficient water use, reduced environmental impact, and improved crop health and yields in smart irrigation systems.
-mind map: ![image](https://github.com/shradha81/smart-irrigation/assets/106264198/021670da-8328-46c9-b237-b7ca6b04498c)
- 
-flow chart:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/0b754499-1b27-4bf6-a5ff-687963459194)
+mind map:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/002b5e7e-345c-4d89-95ae-069606ff1d70)
+
+block diagram:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/feed40d8-6510-4ba8-8742-de71d736c428)
+
+flow chart:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/76896b46-3e85-4b38-9bf2-b6597d224514)
+
 
 

@@ -21,9 +21,26 @@ Data Sharing: Connect with other smart devices and systems on the farm, facilita
 Historical Data Analysis: Store and analyze historical irrigation data to identify trends and make informed decisions. Performance Reports: Generate reports on water usage, system efficiency, and other key metrics for evaluation and improvement. Drought Management:
 Drought Response Planning: Implement features that help manage water resources during drought conditions, such as prioritizing irrigation for essential crops. Alerts and Notifications: Receive alerts about potential drought conditions or water shortages, prompting proactive adjustments to irrigation plans. Integration with Smart Agriculture Systems:
 Farm Management Platforms: Integrate with broader farm management systems to streamline overall agricultural operations. Compatibility with Precision Agriculture: Support precision agriculture practices by aligning with data-driven and technology-based farming approaches. These features collectively contribute to more efficient water use, reduced environmental impact, and improved crop health and yields in smart irrigation systems.
-mind map:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/002b5e7e-345c-4d89-95ae-069606ff1d70)
 
-block diagram:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/feed40d8-6510-4ba8-8742-de71d736c428)
+Mind map:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/002b5e7e-345c-4d89-95ae-069606ff1d70)
+
+Block diagram:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/feed40d8-6510-4ba8-8742-de71d736c428)
+Algorithm:
+
+Step 1: start
+
+Step 2: Initialize the system
+
+Step 3: Read the PIR, moisture sensor from soil and tank
+
+step 4: Receive the observed data
+
+Step 5: analyze the data
+
+Step 6: if motion detected, buzzer get activated, if no re-read the PIR sensor. If the soil is dry, it start the irrigation process, or else re-read the moisture in the soil. If the tank level below the below the threshold , motor will turn on , if no re-measure
+the tank level .
+
+Step 6 : stop
 
 flow chart:![image](https://github.com/shradha81/smart-irrigation/assets/106264198/76896b46-3e85-4b38-9bf2-b6597d224514)
 
